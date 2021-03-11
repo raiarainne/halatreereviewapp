@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Give Us A Good Review On3"
+        android:text="Review us on"
         android:textSize="60dp"
         android:layout_marginTop="40dp"
         android:textColor="@color/black"
